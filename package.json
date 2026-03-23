@@ -1,0 +1,10 @@
+{
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node src/App.js",
+    "dev": "echo \"Defina seu processo de desenvolvimento\""
+  },
+  "dependencies": {}
+}
